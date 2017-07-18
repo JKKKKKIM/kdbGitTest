@@ -10,6 +10,8 @@
 <body>
 	
 sl....ddddddddd
+
+<H1>MASTER상태에서 추가합니당..</H1>
 </body>
 
 </html>
