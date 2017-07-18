@@ -9,7 +9,7 @@
 </head>
 <body>
 	
-sl....ddddddddd
+sl....dddddddddㄹㄴㅁㅇㄻㄴㅇㄹ
 
 <H1>MASTER상태에서 추가합니당..</H1>
 </body>
